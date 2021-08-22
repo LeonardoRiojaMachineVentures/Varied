@@ -1,0 +1,18 @@
+Tryptophan	0.057	g 10/1/1989
+Threonine	0.086	g							10/1/1989
+Isoleucine	0.114	g							10/1/1989
+Leucine	0.235	g							10/1/1989
+Lysine	0.13	g							10/1/1989
+Methionine	0.057	g							10/1/1989
+Cystine	0.099	g							10/1/1989
+Phenylalanine	0.155	g							10/1/1989
+Tyrosine	0.114	g							10/1/1989
+Valine	0.165	g							10/1/1989
+Arginine	0.219	g							10/1/1989
+Histidine	0.07g							10/1/1989
+Alanine	0.149	g							10/1/1989
+Aspartic acid	0.27g							10/1/1989
+Glutamic acid	0.642	g							10/1/1989
+Glycine	0.162	g							10/1/1989
+Proline	0.168	g							10/1/1989
+Serine	0.152	g							10/1/1989
